@@ -8,6 +8,8 @@
 
 ##  Behind the Profile
 
+**This is my new GitHub where I showcase my current projects and build publicly.** While this digital space was established in late 2025, it represents a deliberate transition from years of private enterprise engineering to a more transparent, open-source focus.
+
 I believe that code should only be public if it’s worth reading. That is why you will only see **three repositories** pinned here at any given time; I use this space to showcase the most recent, high-impact projects I am currently working on. I am not interested in padding my profile with tutorials or boilerplate—I’m interested in **Architecture, Precision, and Impact.**
 
 ---
