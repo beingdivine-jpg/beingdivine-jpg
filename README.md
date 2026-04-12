@@ -24,11 +24,17 @@ I believe that code should only be public if it’s worth reading. That is why y
 
 ## Benchmarks
 *These are the projects I stand behind. They represent my current standards for production-ready engineering:*
+### 1. [ContentGEN](https://github.com/divinjoseph/ContentGEN) — Sound into Atmosphere
+An AI-powered creative instrument bridging the gap between audio and visual narrative. Built using **React, TypeScript, and FAL.AI**, this project focuses on a multi-stage state machine that transforms sound-first data into high-fidelity video generations.
+> **Key Architecture:** Integrated real-time generation tracking with **Supabase** and orchestrated complex creative flows with **Framer Motion**.
 
-1. **[Project One Name]** — *The intersection of [Tech A] and [Problem B].*
-2. **[Project Two Name]** — *An exploration of [Complex Pattern] to solve [Problem C].*
-3. **[Project Three Name]** — *Scaling [System] using [Modern Stack].*
+### 2. [Atrium Europe](https://github.com/divinjoseph/atrium-europe) — The Innovation Ecosystem
+A scalable directory and architectural framework for Europe’s hackathon and buildathon landscape. This project demonstrates high-performance data fetching and a modular "Wing-based" routing structure designed for growth.
+> **Key Architecture:** Leveraged **JSON-LD for SEO optimization**, **Radix UI** for accessible design systems, and **Supabase** for real-time data integrity.
 
+### 3. [WYGO](https://github.com/divinjoseph/wygo) — Crew Coordination Engine
+A coordination app designed to solve the multi-variable problem of group availability. This project focuses on simplifying complex scheduling logic into a streamlined, intuitive user experience.
+> **Key Architecture:** Engineered synchronization mechanisms for personal calendar integration and automated availability polling to find optimal "best-fit" event windows.
 ---
 
 ## 🌐 Connect
