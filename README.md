@@ -32,7 +32,7 @@ I believe the future of engineering belongs to those who can "vibe" as same as u
 ---
 
 ## Benchmarks
-*These are the projects I stand behind. They represent my current standards for production-ready engineering:*
+*These are the projects I currenty work and stand behind. They represent my current standards for production-ready engineering:*
 ### 1. [ContentGEN](https://github.com/divinjoseph/ContentGEN) — Sound into Atmosphere
 An AI-powered creative instrument bridging the gap between audio and visual narrative. Built using **React, TypeScript, and FAL.AI**, this project focuses on a multi-stage state machine that transforms sound-first data into high-fidelity video generations.
 > **Key Architecture:** Integrated real-time generation tracking with **Supabase** and orchestrated complex creative flows with **Framer Motion**.
