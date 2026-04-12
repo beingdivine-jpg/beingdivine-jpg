@@ -9,7 +9,9 @@
 ##  Behind the Profile
 You might notice this account was established in **late 2025**. In an industry that often measures talent by the "green squares" on a contribution graph, I’ve chosen a different path. 
 
-For years, my engineering has lived in private environments, enterprise systems, and rigorous academic research. This GitHub profile isn't my "learning journal"—it is my **public archive**. 
+I believe that code should only be public if it’s worth reading. That is why you will only see **three repositories** pinned here at any given time; I use this space to showcase the most recent, high-impact projects I am currently working on. I am not interested in padding my profile with tutorials or boilerplate—I’m interested in **Architecture, Precision, and Impact.**
+
+---
 
 ### The "Signal over Noise" Philosophy
 I believe that code should only be public if it’s worth reading. That is why you will only see **three repositories** pinned here at any given time. I am not interested in padding my profile with tutorials or boilerplate. 
