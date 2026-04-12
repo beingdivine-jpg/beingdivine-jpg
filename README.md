@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Divin Joseph. 
+# Divin here. 
 
 ### I love the art of building :)
 
