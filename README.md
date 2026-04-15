@@ -18,7 +18,7 @@ I believe that code should only be public if it’s worth reading. That is why y
 I am now a specialist in the **Vibe Coding** movement—a paradigm shift where the speed of thought meets the precision of execution. I move beyond syntax-level constraints to focus on **System Design, State Management, and User Experience.**
 
 I am **fluent and highly skilled** in producing complex systems using the most advanced high-abstraction tools available:
-* **The Stack:** Expert-level mastery across **Lovable**, **Antigravity**, **Cursor**, **Replit Agent**, and **v0**.
+* **The Stack:** Expert-level mastery across **Lovable**, **Antigravity**, **Cursor**, **Codex**, **Replit Agent**, and **v0**.
 * **The Standard:** I don’t just write code; I conduct systems. I am inspired by and aligned with the architectural philosophies of leaders in this space like **Andrejs Karpathy**, **Amjad Masad**, **Pietro Schirano**, **Sahil Lavingia**, **Mckay Wrigley**, **Guillermo Rauch**, and **Riley Brown**.
 
 I believe the future of engineering belongs to those who can "vibe" as same as understand with the machine—using natural language to synthesize robust, production-ready code while maintaining total architectural control.
