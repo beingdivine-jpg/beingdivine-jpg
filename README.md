@@ -13,8 +13,8 @@
 I believe that code should only be public if it’s worth reading. That is why you will only see **three repositories** pinned here at any given time; I use this space to showcase the most recent, high-impact projects I am currently working on. I am not interested in padding my profile with tutorials or boilerplate—I’m interested in **Architecture, Precision, and Impact.**
 
 Currently building
-Chathome.lu - Introducing AI Agents powered real estate platform in luxembourg https://chathome.lu
-Forge - Buildng building culture in luxembourg https://forgelux.lovable.app
+* Chathome.lu - Introducing AI Agents powered real estate platform in luxembourg https://chathome.lu
+* Forge - Buildng building culture in luxembourg https://forgelux.lovable.app
 
 ---
 
